@@ -3,5 +3,5 @@
 打開record你會看到像這樣的字串:
 ◀︎alt▶︎◀︎tab▶︎abc123◀︎tab▶︎aaaa◀︎enter▶︎◀︎esc▶︎
 用◀︎  ▶︎包住的是特殊鍵 像是◀︎alt▶︎◀︎tab▶︎◀︎enter▶︎◀︎esc▶︎◀︎ctrl▶︎...
-關掉監聽器用進程殺手(process_killer)
+關掉監聽器用進程終結者(process_killer)
 感謝ai幫忙:D
